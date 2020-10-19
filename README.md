@@ -23,4 +23,4 @@ This repo will contain a list of chosen words in Portuguese, English and Danish
 | Cake         | Kage             | Bolo           |Kek        |
 | UFO          | UFO              | Ovni           |UFO/Uzay Mekiği|
 | Friday       | Fredag           | Sexta-feira    |Cuma       |
-| Pants        | Bukser           | Calças         |Pantalonlar|
+| Pants        | Bukser           | Calças         |Pantolonlar|
