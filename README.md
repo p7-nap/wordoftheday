@@ -33,3 +33,6 @@ This repo will contain a list of chosen words in Portuguese, English and Danish
 | Trash can    | Skraldespand     | Caixote do lixo |                 |
 | Logo         | Logo             | Logótipo        |                 |
 | Frustrations | Frustationer     | Frustração      |                 |
+| Communication| Kommunikation    | Comunicação     |                 |
+| Christmas    | Jul              | Natal           |                 |
+| Pussy        | Tissekone        | Cona            |                 |
