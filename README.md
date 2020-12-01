@@ -3,7 +3,7 @@ This repo will contain a list of chosen words in Portuguese, English and Danish
 
 | English      | Danish           | Portuguese      | Turkish         |
 |:-------------|:-----------------|:----------------|:----------------|
-| Penis        | Tissemand        | Caralho         | Sik             |
+| Penis        | Tissemand        | Caralho         | Penis           |
 | Good morning | Godmorgen        | Bom dia         | Günaydın        |
 | How are you? | Hvordan går det? | Como vai?       | Nasılsın ?      |
 | Bless you    | Prosit           | Santinho        | Çok yaşa.       |
@@ -24,15 +24,15 @@ This repo will contain a list of chosen words in Portuguese, English and Danish
 | UFO          | UFO              | Ovni            | UFO/Uzay Mekiği |
 | Friday       | Fredag           | Sexta-feira     | Cuma            |
 | Pants        | Bukser           | Calças          | Pantolonlar     |
-| Hangover     | Tømmermænd       | Ressaca         |                 |
-| Sleep        | Søvn             | Dormir          |                 |
-| Toast        | Toast            | Torrada         |                 |
-| Face mask    | Mundbind         | Máscara         |                 |
-| Flag         | Flag             | Bandeira        |                 |
-| Supermarket  | Supermarked      | Supermercado    |                 |
-| Trash can    | Skraldespand     | Caixote do lixo |                 |
-| Logo         | Logo             | Logótipo        |                 |
-| Frustrations | Frustationer     | Frustração      |                 |
-| Communication| Kommunikation    | Comunicação     |                 |
-| Christmas    | Jul              | Natal           |                 |
-| Pussy        | Tissekone        | Cona            |                 |
+| Hangover     | Tømmermænd       | Ressaca         | Akşamdan Kalma  |
+| Sleep        | Søvn             | Dormir          | Uyumak/Uyku     |
+| Toast        | Toast            | Torrada         | Tost            |
+| Face mask    | Mundbind         | Máscara         | Yüz Maskesi     |
+| Flag         | Flag             | Bandeira        | Bayrak          |
+| Supermarket  | Supermarked      | Supermercado    | Süper Market    |
+| Trash can    | Skraldespand     | Caixote do lixo | Çöp Kutusu      |
+| Logo         | Logo             | Logótipo        | Logo            |
+| Frustrations | Frustationer     | Frustração      | Yılgınlık       |
+| Communication| Kommunikation    | Comunicação     | İletişim        |
+| Christmas    | Jul              | Natal           | Noel            |
+| Pussy        | Tissekone        | Cona            | Am              |
